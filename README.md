@@ -1,1 +1,3 @@
-# openbroGetHandle
+# openbroGetHandle 
+
+打开浏览器， 获取当前窗口句柄 ， 打开新窗口， 选择新窗口的句柄，获取新窗口的title ，推出新窗口，退出服务 
